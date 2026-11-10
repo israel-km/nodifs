@@ -1,0 +1,12 @@
+TEAM PHOTOS
+===========
+Save each person's photo here, using the file name written in data/team.json
+(for example images/team/amina-mbuyi.jpg).
+
+- Square or portrait photos work best (about 800 x 800 px, under ~200 KB).
+- Keep the face in the upper half of the picture.
+- If a photo is missing, the card shows the person's initials instead.
+
+To add a person: copy one block in data/team.json, change the name, photo, role and bio.
+To translate: add "sw", "ln" or "lg" next to "en" and "fr" in role/bio. Languages with no
+text yet automatically show the English version.

@@ -1,0 +1,230 @@
+[
+  {
+    "id": "welcome-2026",
+    "title": "Welcome to a New Chapter at NODIFS",
+    "category": "Announcement",
+    "date": "2026-09-01",
+    "dateLabel": "Sep 1, 2026",
+    "emoji": "🏫",
+    "excerpt": "A new school year brings fresh opportunities to learn, connect and grow together.",
+    "body": "The start of a new school year is a chance to reconnect with friends, welcome new classmates and set thoughtful goals. At NODIFS, we look forward to working with families to create a supportive environment where every learner can participate, build confidence and make progress. Families are encouraged to contact the school office for confirmed term dates and practical arrangements.",
+    "featured": true,
+    "ticker": "Welcome to a new school year of learning, connection and possibility.",
+    "translations": {
+      "fr": {
+        "title": "Bienvenue dans un nouveau chapitre à NODIFS",
+        "excerpt": "Une nouvelle année scolaire apporte de nouvelles occasions d’apprendre, de tisser des liens et de grandir ensemble.",
+        "body": "Le début d’une nouvelle année scolaire est l’occasion de retrouver ses amis, d’accueillir de nouveaux camarades et de se fixer des objectifs réfléchis. À NODIFS, nous nous réjouissons de travailler avec les familles pour créer un environnement bienveillant où chaque élève peut participer, prendre confiance et progresser. Les familles sont invitées à contacter le secrétariat de l’école pour connaître les dates confirmées des trimestres et les modalités pratiques.",
+        "ticker": "Bienvenue dans une nouvelle année scolaire d’apprentissage, de liens et de possibilités."
+      },
+      "sw": {
+        "title": "Karibu katika Sura Mpya ya NODIFS",
+        "excerpt": "Mwaka mpya wa shule unaleta fursa mpya za kujifunza, kuungana na kukua pamoja.",
+        "body": "Mwanzo wa mwaka mpya wa shule ni nafasi ya kukutana tena na marafiki, kuwakaribisha wanafunzi wapya na kuweka malengo yenye busara. Katika NODIFS, tunatazamia kufanya kazi na familia ili kujenga mazingira ya kuunga mkono ambapo kila mwanafunzi anaweza kushiriki, kujiamini na kupiga hatua. Familia zinahimizwa kuwasiliana na ofisi ya shule kuthibitisha tarehe za muhula na mipango ya vitendo.",
+        "ticker": "Karibu katika mwaka mpya wa shule wa kujifunza, uhusiano na fursa."
+      },
+      "ln": {
+        "title": "Boyei malamu na lisolo ya sika na NODIFS",
+        "excerpt": "Mobu ya sika ya kelasi euti na bibongiseli ya sika mpo na koyekola, kosangana mpe kokola elongo.",
+        "body": "Ebandeli ya mobu ya sika ya kelasi ezali libaku ya kokutana lisusu na baninga, ya kokofisa bayekoli ya sika mpe ya kotya mikano ya malamu. Na NODIFS, tozali kotala liboso mosala elongo na mabota mpo na kokela esika ya lisungi epai wapi mwana-eyekoli nyonso akoki kosangana, kozwa elikya mpe kokende liboso. Tolendisi mabota báyokana na biro ya eskoli mpo na koyeba mikolo ya ba trimestre oyo etyami mpe makambo mosusu ya mosala.",
+        "ticker": "Boyei malamu na mobu ya sika ya koyekola, bosangani mpe bikoki."
+      },
+      "lg": {
+        "title": "Tukusanyukidde mu Mutendera Omuggya ogwa NODIFS",
+        "excerpt": "Omwaka ogw’essomero omuggya guleeta emikisa emipya egy’okuyiga, okwegatta n’okukula wamu.",
+        "body": "Entandikwa y’omwaka ogw’essomero omuggya mukisa okuddamu okusisinkana mikwano, okwaniriza bayizi bannaabwe abapya n’okuteeka ebiruubirirwa ebirowoozeddwako. Ku NODIFS, tusuubira okukolera awamu n’amaka okuzimba embeera ewagira buli muyizi okwetaba, okuzimba obwesige n’okukulaakulana. Amaka gakubirizibwa okukwatagana n’ekitongole ky’essomero okumanya ennaku ez’ekisanja ezikakasiddwa n’enteekateeka endala ez’omugaso.",
+        "ticker": "Tukusanyukidde mu mwaka ogw’essomero omuggya ogw’okuyiga, okwegatta n’emikisa."
+      }
+    }
+  },
+  {
+    "id": "bilingual-week",
+    "title": "Celebrating Our Bilingual Community",
+    "category": "Event",
+    "date": "2026-08-18",
+    "dateLabel": "Aug 18, 2026",
+    "emoji": "🌍",
+    "excerpt": "Students are invited to celebrate the languages and cultures that make our community unique.",
+    "body": "Our bilingual community is enriched by the many languages and traditions represented by students and families. This community celebration highlights the value of listening, sharing stories and learning from one another. Activities can include reading, language games, music and short presentations. Please check with the school office for confirmed dates and the final activity schedule.",
+    "featured": true,
+    "ticker": "Our bilingual community celebrates languages, cultures and shared stories.",
+    "translations": {
+      "fr": {
+        "title": "Célébrer notre communauté bilingue",
+        "excerpt": "Les élèves sont invités à célébrer les langues et les cultures qui font l’unicité de notre communauté.",
+        "body": "Notre communauté bilingue s’enrichit des nombreuses langues et traditions représentées par les élèves et les familles. Cette célébration communautaire met en valeur l’écoute, le partage d’histoires et l’apprentissage mutuel. Les activités peuvent inclure de la lecture, des jeux de langue, de la musique et de courts exposés. Veuillez vous renseigner auprès du secrétariat de l’école pour les dates confirmées et le programme définitif des activités.",
+        "ticker": "Notre communauté bilingue célèbre les langues, les cultures et les histoires partagées."
+      },
+      "sw": {
+        "title": "Kusherehekea Jumuiya Yetu ya Lugha Mbili",
+        "excerpt": "Wanafunzi wanakaribishwa kusherehekea lugha na tamaduni zinazofanya jumuiya yetu kuwa ya kipekee.",
+        "body": "Jumuiya yetu ya lugha mbili inatajirishwa na lugha na mila nyingi zinazowakilishwa na wanafunzi na familia. Sherehe hii ya jumuiya inaonyesha thamani ya kusikiliza, kushiriki hadithi na kujifunza kutoka kwa wenzetu. Shughuli zinaweza kujumuisha kusoma, michezo ya lugha, muziki na mawasilisho mafupi. Tafadhali wasiliana na ofisi ya shule kupata tarehe zilizothibitishwa na ratiba ya mwisho ya shughuli.",
+        "ticker": "Jumuiya yetu ya lugha mbili inasherehekea lugha, tamaduni na hadithi tunazoshiriki."
+      },
+      "ln": {
+        "title": "Tosepelaka na lisanga na biso ya minoko mibale",
+        "excerpt": "Bayekoli bazali kobengama mpo na kosepela na minoko mpe bizaleli oyo esalaka ete lisanga na biso ezala ya ndenge na yango.",
+        "body": "Lisanga na biso ya minoko mibale ezali kozwa bomengo na minoko mpe bizaleli mingi oyo bayekoli mpe mabota bamemaka. Fɛti oyo ya lisanga emonisi motuya ya koyoka, ya kosolola masolo mpe ya koyekola epai ya moko na mosusu. Misala ekoki kozala kotanga, masano ya minoko, miziki mpe maloba mimokuse. Tobondeli bótuna na biro ya eskoli mpo na koyeba mikolo etyami mpe programɛ ya suka ya misala.",
+        "ticker": "Lisanga na biso ya minoko mibale esepelaka na minoko, bizaleli mpe masolo oyo tokabolaka."
+      },
+      "lg": {
+        "title": "Okujaguza Ekibiina Kyaffe eky’Ennimi Ebbiri",
+        "excerpt": "Abayizi bayitiddwa okujaguza ennimi n’ennono ebifuula ekibiina kyaffe eky’enjawulo.",
+        "body": "Ekibiina kyaffe eky’ennimi ebbiri kigaggawadde olw’ennimi n’empisa nnyingi abayizi n’amaka bye bakiikirira. Okujaguza kuno kulaga omugaso gw’okuwuliriza, okugabana emboozi n’okuyigira ku munne. Emirimu gisobola okubaamu okusoma, emizannyo gy’ennimi, ennyimba n’okwogera okumpi. Tusaba obuuze ku kitongole ky’essomero okumanya ennaku ezikakasiddwa n’enteekateeka enkomerero ey’emirimu.",
+        "ticker": "Ekibiina kyaffe eky’ennimi ebbiri kijaguza ennimi, ennono n’emboozi ze tugabana."
+      }
+    }
+  },
+  {
+    "id": "science-discovery",
+    "title": "Learning Through Science and Discovery",
+    "category": "Academics",
+    "date": "2026-07-12",
+    "dateLabel": "Jul 12, 2026",
+    "emoji": "🔬",
+    "excerpt": "Hands-on questions help students connect classroom ideas with the world around them.",
+    "body": "Science learning becomes memorable when students can observe, ask questions, make predictions and explain what they discover. NODIFS encourages age-appropriate inquiry and collaboration across subjects. Teachers guide students to communicate their ideas clearly, consider evidence and learn from mistakes. Families can support this spirit of discovery by inviting children to explain what they notice in everyday life.",
+    "featured": false,
+    "ticker": "Science learning puts curiosity, questions and discovery at the centre.",
+    "translations": {
+      "fr": {
+        "title": "Apprendre par la science et la découverte",
+        "excerpt": "Des questions concrètes aident les élèves à relier les idées vues en classe au monde qui les entoure.",
+        "body": "L’apprentissage des sciences devient mémorable lorsque les élèves peuvent observer, poser des questions, formuler des hypothèses et expliquer ce qu’ils découvrent. NODIFS encourage une démarche d’investigation adaptée à l’âge et la collaboration entre les disciplines. Les enseignants guident les élèves pour qu’ils expriment clairement leurs idées, tiennent compte des preuves et apprennent de leurs erreurs. Les familles peuvent soutenir cet esprit de découverte en invitant les enfants à expliquer ce qu’ils remarquent dans la vie de tous les jours.",
+        "ticker": "L’apprentissage des sciences place la curiosité, les questions et la découverte au centre."
+      },
+      "sw": {
+        "title": "Kujifunza kupitia Sayansi na Ugunduzi",
+        "excerpt": "Maswali ya vitendo huwasaidia wanafunzi kuunganisha mawazo ya darasani na ulimwengu unaowazunguka.",
+        "body": "Kujifunza sayansi hukumbukwa wanafunzi wanapoweza kuchunguza, kuuliza maswali, kutabiri na kueleza wanachogundua. NODIFS inahimiza uchunguzi unaofaa umri na ushirikiano katika masomo mbalimbali. Walimu huwaongoza wanafunzi kueleza mawazo yao kwa uwazi, kuzingatia ushahidi na kujifunza kutokana na makosa. Familia zinaweza kuunga mkono moyo huu wa ugunduzi kwa kuwaalika watoto waeleze wanachoona katika maisha ya kila siku.",
+        "ticker": "Kujifunza sayansi kunaweka udadisi, maswali na ugunduzi katikati."
+      },
+      "ln": {
+        "title": "Koyekola na siansi mpe boluki ya makambo",
+        "excerpt": "Mituna ya misala epesaka bayekoli nzela ya kokangisa makanisi ya kelasi na mokili oyo ezingeli bango.",
+        "body": "Koyekola siansi ekomaka eloko oyo bato bakobosana te ntango bayekoli bakoki kotala, kotuna, kolakisa liboso mpe kolimbola oyo bakutaki. NODIFS elendisi boluki oyo ebongi na mbula mpe bosangani kati na mateya ndenge na ndenge. Balakisi bakambaka bayekoli mpo bálimbola makanisi na bango polele, bátala bilembo mpe báyekola na mabunga na bango. Mabota bakoki kosunga elimo oyo ya boluki na kobengisa bana báyebisa oyo bamonaka na bomoi ya mokolo na mokolo.",
+        "ticker": "Koyekola siansi etii mposa ya koyeba, mituna mpe boluki na katikati."
+      },
+      "lg": {
+        "title": "Okuyiga nga tuyita mu Ssaayansi n’Okuzuula",
+        "excerpt": "Ebibuuzo eby’omukono bibayamba abayizi okuyunga ebirowoozo eby’omu kibiina n’ensi ebeetoolodde.",
+        "body": "Okuyiga ssaayansi kujjukirwa nnyo abayizi bwe basobola okwetegereza, okubuuza ebibuuzo, okuteebereza n’okunnyonnyola bye bazuula. NODIFS ekubiriza okunoonyereza okusaanira emyaka n’okukolera awamu mu masomo gonna. Abasomesa bakulembera abayizi okunnyonnyola ebirowoozo byabwe bulungi, okulowooza ku bujulizi n’okuyigira ku nsobi. Amaka gasobola okuwagira omwoyo guno ogw’okuzuula nga gakubiriza abaana okunnyonnyola bye balaba mu bulamu obwa buli lunaku.",
+        "ticker": "Okuyiga ssaayansi kuteeka okwegomba okumanya, ebibuuzo n’okuzuula wakati."
+      }
+    }
+  },
+  {
+    "id": "student-achievement",
+    "title": "Recognising Effort and Achievement",
+    "category": "Achievement",
+    "date": "2026-06-20",
+    "dateLabel": "Jun 20, 2026",
+    "emoji": "🏆",
+    "excerpt": "We celebrate the dedication, teamwork and progress shown by our learners.",
+    "body": "Achievement takes many forms: mastering a difficult concept, helping a classmate, completing a creative project or showing persistence after a setback. We are proud of the effort our students bring to their learning. By recognising both progress and outcomes, our school community encourages learners to keep practising, reflect on feedback and set new goals.",
+    "featured": false,
+    "ticker": "Celebrating student effort, teamwork and progress across the school.",
+    "translations": {
+      "fr": {
+        "title": "Reconnaître l’effort et la réussite",
+        "excerpt": "Nous célébrons le dévouement, le travail d’équipe et les progrès de nos élèves.",
+        "body": "La réussite prend de nombreuses formes : maîtriser une notion difficile, aider un camarade, mener à bien un projet créatif ou persévérer après un revers. Nous sommes fiers des efforts que nos élèves consacrent à leur apprentissage. En reconnaissant à la fois les progrès et les résultats, notre communauté scolaire encourage les élèves à continuer de s’exercer, à tirer parti des retours reçus et à se fixer de nouveaux objectifs.",
+        "ticker": "Célébrer l’effort, le travail d’équipe et les progrès des élèves dans toute l’école."
+      },
+      "sw": {
+        "title": "Kutambua Juhudi na Mafanikio",
+        "excerpt": "Tunasherehekea kujitolea, kazi ya pamoja na maendeleo yanayoonyeshwa na wanafunzi wetu.",
+        "body": "Mafanikio huja kwa namna nyingi: kuelewa dhana ngumu, kumsaidia mwanafunzi mwenzako, kukamilisha mradi wa ubunifu au kuendelea kujaribu baada ya kukwama. Tunajivunia juhudi wanafunzi wetu wanazoweka katika kujifunza. Kwa kutambua maendeleo na matokeo, jumuiya ya shule yetu inawahimiza wanafunzi waendelee kujizoeza, wafikirie maoni wanayopewa na kuweka malengo mapya.",
+        "ticker": "Kusherehekea juhudi, kazi ya pamoja na maendeleo ya wanafunzi katika shule nzima."
+      },
+      "ln": {
+        "title": "Kotalela bomeki mpe bolongi",
+        "excerpt": "Tosepelaka na bomipesi, mosala ya elongo mpe kokola oyo bayekoli na biso bamonisaka.",
+        "body": "Bolongi ezali na ndenge mingi: kososola likambo ya makasi, kosunga moninga ya kelasi, kosilisa mosala ya mayele to kokangama nsima ya kokweya. Tozali na lofundo mpo na bomeki oyo bayekoli na biso bamemaka na koyekola. Na kotalela kokola mpe mbuma, lisanga na biso ya eskoli elendisaka bayekoli báfanda kosala komekola, báyoka makanisi oyo bapesami mpe bátya mikano ya sika.",
+        "ticker": "Kosepela na bomeki, mosala ya elongo mpe kokola ya bayekoli na eskoli mobimba."
+      },
+      "lg": {
+        "title": "Okukkiriza Okufuba n’Obuwanguzi",
+        "excerpt": "Tujaguza okwewaayo, okukolera awamu n’enkulaakulana abayizi baffe gye balaga.",
+        "body": "Obuwanguzi bujja mu ngeri nnyingi: okumanya ekirowoozo ekizibu, okuyamba munnaabwe, okumaliriza pulojekiti ey’obuyiiya oba okugumiikiriza oluvannyuma lw’okugwa. Twenyumiriza mu kufuba abayizi baffe kwe bateeka mu kuyiga. Bwe tutwala enkulaakulana n’ebivuddemu, ekibiina ky’essomero lyaffe kikubiriza abayizi okweyongera okukola dduyiro, okulowooza ku bye bayambibwako n’okuteeka ebiruubirirwa ebipya.",
+        "ticker": "Okujaguza okufuba, okukolera awamu n’enkulaakulana y’abayizi mu ssomero lyonna."
+      }
+    }
+  },
+  {
+    "id": "family-partnership",
+    "title": "Working Together with Families",
+    "category": "Announcement",
+    "date": "2026-05-28",
+    "dateLabel": "May 28, 2026",
+    "emoji": "🤝",
+    "excerpt": "Strong communication between school and home supports students at every stage.",
+    "body": "Students benefit when families and educators share information, celebrate progress and work through challenges together. NODIFS encourages parents and guardians to keep in touch with the school team, ask questions and share information that can help each learner thrive. Contact the school office to confirm the best channels and times for family communication.",
+    "featured": false,
+    "ticker": "School and family partnership helps every learner feel supported.",
+    "translations": {
+      "fr": {
+        "title": "Travailler ensemble avec les familles",
+        "excerpt": "Une bonne communication entre l’école et la maison soutient les élèves à chaque étape.",
+        "body": "Les élèves bénéficient du partage d’informations entre familles et éducateurs, de la célébration des progrès et de la résolution commune des difficultés. NODIFS encourage les parents et les tuteurs à rester en contact avec l’équipe de l’école, à poser des questions et à partager les informations utiles à l’épanouissement de chaque élève. Contactez le secrétariat de l’école pour confirmer les meilleurs canaux et horaires de communication avec les familles.",
+        "ticker": "Le partenariat entre l’école et les familles aide chaque élève à se sentir soutenu."
+      },
+      "sw": {
+        "title": "Kufanya Kazi Pamoja na Familia",
+        "excerpt": "Mawasiliano mazuri kati ya shule na nyumbani huwasaidia wanafunzi katika kila hatua.",
+        "body": "Wanafunzi hunufaika familia na walimu wanaposhirikiana taarifa, kusherehekea maendeleo na kutatua changamoto pamoja. NODIFS inawahimiza wazazi na walezi kuendelea kuwasiliana na timu ya shule, kuuliza maswali na kushiriki taarifa zinazoweza kumsaidia kila mwanafunzi kufanikiwa. Wasiliana na ofisi ya shule kuthibitisha njia na nyakati bora za mawasiliano na familia.",
+        "ticker": "Ushirikiano wa shule na familia humsaidia kila mwanafunzi kujisikia anaungwa mkono."
+      },
+      "ln": {
+        "title": "Kosala elongo na mabota",
+        "excerpt": "Boyokani malamu kati na eskoli mpe ndako epesaka bayekoli lisungi na etape nyonso.",
+        "body": "Bayekoli bazwaka litomba ntango mabota mpe balakisi bapesanaka sango, basepelaka na kokola mpe bakoki kolonga mikakatano elongo. NODIFS elendisi baboti mpe bakengeli báfanda kosolola na etuluku ya eskoli, kotuna mituna mpe kokabola sango oyo ekoki kosunga mwana-eyekoli nyonso akola malamu. Benga biro ya eskoli mpo na koyeba nzela mpe ntango oyo eleki malamu mpo na kosolola na mabota.",
+        "ticker": "Bondeko kati na eskoli mpe mabota esalaka ete mwana-eyekoli nyonso ayoka ete azali kosungama."
+      },
+      "lg": {
+        "title": "Okukolera Awamu n’Amaka",
+        "excerpt": "Empuliziganya ennungi wakati w’essomero n’awaka ewagira abayizi mu buli kitundu.",
+        "body": "Abayizi bafuna emigaso amaka n’abasomesa bwe bagabana amawulire, okujaguza enkulaakulana n’okugonjoola okusoomooza wamu. NODIFS ekubiriza abazadde n’abakuumi okusigala nga bakwatagana ne ttiimu y’essomero, okubuuza ebibuuzo n’okugabana amawulire ageeyamba buli muyizi okuvaayo obulungi. Kwata ekitongole ky’essomero okukakasa amakubo n’ebiseera ebisinga obulungi eby’empuliziganya n’amaka.",
+        "ticker": "Omukago gw’essomero n’amaka gwamba buli muyizi okuwulira nga awagirwa."
+      }
+    }
+  },
+  {
+    "id": "reading-culture",
+    "title": "Building a Lifelong Love of Reading",
+    "category": "Academics",
+    "date": "2026-04-16",
+    "dateLabel": "Apr 16, 2026",
+    "emoji": "📚",
+    "excerpt": "Reading across languages builds imagination, vocabulary and understanding.",
+    "body": "Reading helps students develop vocabulary, explore new ideas and understand perspectives beyond their own experience. Families can encourage reading by making time for stories, allowing children to choose books that interest them and talking together about what they have read. Both French and English reading experiences can strengthen language confidence and curiosity.",
+    "featured": false,
+    "ticker": "Reading in French and English opens up new ideas and perspectives.",
+    "translations": {
+      "fr": {
+        "title": "Cultiver l’amour de la lecture pour la vie",
+        "excerpt": "Lire dans plusieurs langues développe l’imagination, le vocabulaire et la compréhension.",
+        "body": "La lecture aide les élèves à enrichir leur vocabulaire, à explorer de nouvelles idées et à comprendre des points de vue différents du leur. Les familles peuvent encourager la lecture en prenant le temps de raconter des histoires, en laissant les enfants choisir des livres qui les intéressent et en parlant ensemble de ce qu’ils ont lu. Les lectures en français comme en anglais peuvent renforcer la confiance en la langue et la curiosité.",
+        "ticker": "Lire en français et en anglais ouvre sur de nouvelles idées et de nouveaux points de vue."
+      },
+      "sw": {
+        "title": "Kujenga Upendo wa Kusoma wa Maisha Yote",
+        "excerpt": "Kusoma katika lugha mbalimbali hujenga mawazo, msamiati na uelewa.",
+        "body": "Kusoma huwasaidia wanafunzi kukuza msamiati, kuchunguza mawazo mapya na kuelewa mitazamo zaidi ya uzoefu wao. Familia zinaweza kuhimiza kusoma kwa kutenga muda wa hadithi, kuwaruhusu watoto kuchagua vitabu wanavyovipenda na kuzungumza pamoja kuhusu walichosoma. Uzoefu wa kusoma Kifaransa na Kiingereza unaweza kuimarisha ujasiri wa lugha na udadisi.",
+        "ticker": "Kusoma Kifaransa na Kiingereza hufungua mawazo na mitazamo mipya."
+      },
+      "ln": {
+        "title": "Kokela mposa ya kotanga mpo na bomoi mobimba",
+        "excerpt": "Kotanga na minoko ndenge na ndenge ekolisaka makanisi, maloba mpe bososoli.",
+        "body": "Kotanga esungaka bayekoli bákolisa maloba na bango, báluka makanisi ya sika mpe básosola makanisi oyo eleki makambo oyo bamonaki bango moko. Mabota bakoki kolendisa kotanga na kopesa ntango na masolo, na kolingela bana báponela mikanda oyo ezali kosepelisa bango mpe na kosolola elongo na ntina na oyo batangi. Kotanga na Lifalansɛ mpe na Lingɛlɛ ekoki kolendisa elikya na monoko mpe mposa ya koyeba.",
+        "ticker": "Kotanga na Lifalansɛ mpe Lingɛlɛ efungoli makanisi mpe makanisi ya sika."
+      },
+      "lg": {
+        "title": "Okuzimba Okwagala Okusoma Obulamu Bwonna",
+        "excerpt": "Okusoma mu nnimi ez’enjawulo kizimba ebirowoozo, ebigambo n’okutegeera.",
+        "body": "Okusoma kuyamba abayizi okwongera ku bigambo byabwe, okunoonyereza ku birowoozo ebipya n’okutegeera endowooza ez’ewala w’obumanyirivu bwabwe. Amaka gasobola okukubiriza okusoma nga gaweerawo ebiseera eby’emboozi, nga gaganyula abaana okulonda ebitabo bye baagala era nga boogera wamu ku bye basomye. Okusoma mu Luffaransa ne mu Lungereza kisobola okunyweza obwesige mu lulimi n’okwegomba okumanya.",
+        "ticker": "Okusoma mu Luffaransa ne mu Lungereza kuggulawo ebirowoozo n’endowooza empya."
+      }
+    }
+  }
+]

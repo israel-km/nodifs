@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a1d4d"/><stop offset="1" stop-color="#1c4bb0"/></linearGradient>
+<radialGradient id="r" cx=".72" cy=".5" r=".5"><stop offset="0" stop-color="#e63946" stop-opacity=".45"/><stop offset="1" stop-color="#e63946" stop-opacity="0"/></radialGradient></defs>
+<rect width="1600" height="900" fill="url(#g)"/><rect width="1600" height="900" fill="url(#r)"/>
+<g fill="none" stroke="#fff" stroke-opacity=".07" stroke-width="2"><circle cx="1180" cy="450" r="330"/><circle cx="1180" cy="450" r="450"/><circle cx="1180" cy="450" r="580"/></g><g font-family="Georgia,serif" font-weight="700" font-size="84" text-anchor="middle">
+<g transform="translate(1040 290)"><path d="M-190 -90 h380 a50 50 0 0 1 50 50 v110 a50 50 0 0 1 -50 50 h-250 l-90 80 v-80 h-40 a50 50 0 0 1 -50 -50 v-110 a50 50 0 0 1 50 -50z" fill="#fff" transform="translate(-10 0)"/><text x="-10" y="55" fill="#0a1d4d">Bonjour</text></g>
+<g transform="translate(1250 500)"><path d="M-170 -80 h340 a50 50 0 0 1 50 50 v100 a50 50 0 0 1 -50 50 h-40 v80 l-90 -80 h-210 a50 50 0 0 1 -50 -50 v-100 a50 50 0 0 1 50 -50z" fill="#e63946"/><text x="0" y="48" fill="#fff">Hello</text></g></g></svg>
