@@ -5,3 +5,4 @@
 [data-logo3d] > *{opacity:0;transition:opacity .6s ease}
 [data-logo3d].is-ready > *{opacity:1}
 @media(prefers-reduced-motion:reduce){[data-logo3d] > *{transition:none}}
+
