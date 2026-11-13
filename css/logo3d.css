@@ -1,0 +1,7 @@
+/* NODIFS floating 3D crest (js/logo3d.js). The element sets the size; the crest fills it. */
+[data-logo3d]{position:relative;display:block;aspect-ratio:1/1;pointer-events:none}
+[data-logo3d] .logo3d-canvas,[data-logo3d] .logo3d-fallback{position:absolute;inset:0;width:100%;height:100%;display:block}
+[data-logo3d] .logo3d-fallback{object-fit:contain}
+[data-logo3d] > *{opacity:0;transition:opacity .6s ease}
+[data-logo3d].is-ready > *{opacity:1}
+@media(prefers-reduced-motion:reduce){[data-logo3d] > *{transition:none}}
