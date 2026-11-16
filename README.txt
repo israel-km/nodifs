@@ -58,3 +58,14 @@ Languages (whole site)
   "your.key" to all five lang files. Missing translations fall back to English.
 - Please have native speakers review the Lingala (ln) and Luganda (lg) text, and ideally Swahili,
   before the site goes live.
+
+3D logo (floating crest)
+- Add <div data-logo3d></div> anywhere, plus css/logo3d.css and <script type="module" src="js/logo3d.js">.
+  Give the div a size in CSS; the crest fills it with a transparent background.
+- Options: data-theme="dark" (for dark backgrounds), data-wordmark (show NODIFS and the school name),
+  data-intro="once|always|never" (assemble animation; default once per visit), data-follow="false" (no mouse tilt).
+- Preview every variant at logo3d-preview.html.
+- The shapes live in data/logo3d.json, traced from images/nodifs-logo.png by tools/trace-logo.py.
+  Flat transparent versions of the logo: images/logo/nodifs-crest.svg and images/logo/nodifs-logo.svg.
+- Three.js 0.180 is stored in js/vendor/three (MIT licence), so no outside service is needed.
+- Visitors who prefer reduced motion see a still 3D crest; browsers without WebGL see the flat logo.
